@@ -148,6 +148,7 @@ rl.on('line', (line) => {
       break;
     case 'random':
       randomOpera();
+      console.log('🎩 Enjoy the show 💫'.yellow.bold);
       break;
     case 'filter':
       if (args.length !== 2) {
