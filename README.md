@@ -19,7 +19,7 @@
 - 3 Function with a list that print all the Opera houses in Berlin.
 - 5 Function with random that print an opera random to the list.
 - 6 Function -Filter to find the price from min to max .
-- 7 Fuction to add Opera house with .pusch
+- 7 Fuction to add Opera house with .push
 - 8 Function to remove an Opera house with .splice The splice() method changes the contents of an array by removing or replacing existing elements and/or adding new elements in place.
 - 9 Create a `readline`interface for reading input and writing output.
 - 10 setting promt and displaying it .
