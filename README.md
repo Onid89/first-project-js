@@ -17,7 +17,6 @@
 - 1 List with Opera House in Berlin .
 - 2 Objects in Array with specific opera event (name , date, time , price , theater).
 - 3 Function with a list that print all the Opera houses in Berlin.
-- 4 Function with a list that print all the Productions that will be staged in September with some info.
 - 5 Function with random that print an opera random to the list.
 - 6 Function -Filter to find the price from min to max .
 - 7 Fuction to add Opera house with .pusch
